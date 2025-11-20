@@ -1,0 +1,7 @@
+{
+  "name": "Polymath Voice Coach",
+  "description": "A conversational AI partner blending the persona of a storyteller, philosopher, and filmmaker to help you master speech, emotion, and narration style using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
